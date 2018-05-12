@@ -1,0 +1,28 @@
+_repo: Reason-and-Faith--Their-Claims-and-ConflictsCLXXXII.--Pages-293-356-_15563
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rogers, Henry
+    birthdate: 1806
+    deathdate: 1877
+    gutenberg_agent_id: '6125'
+    url: http://www.gutenberg.org/2009/agents/6125
+description: ''
+gutenberg_issued: '2005-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15563'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christianity -- Philosophy'
+- !lcc 'BT'
+- !lcsh 'Faith and reason -- Christianity'
+title: "Reason and Faith; Their Claims and Conflicts\r\nFrom The Edinburgh Review,\
+  \ October 1849, Volume 90, No. CLXXXII. (Pages 293-356)"
+url: http://www.gutenberg.org/ebooks/15563
