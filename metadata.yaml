@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '6125'
     url: http://www.gutenberg.org/2009/agents/6125
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15563#Reason-and-Faith--Their-Claims-and-ConflictsCLXXXII.--Pages-293-356-
 gutenberg_issued: '2005-04-06'
 gutenberg_type: Text
 identifiers:
